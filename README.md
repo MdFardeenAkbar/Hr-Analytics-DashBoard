@@ -10,8 +10,9 @@
 
 | File / Folder | Description |
 |---------------|-------------|
-| `HR_Analytics_Dashboard.twbx` | Packaged Tableau workbook with all dashboards |
-| `HumanResources.csv` | Example generated dataset (not versioned) |
+| `images ` | Contains all the icons used in the dashbaord |
+| `HR Dashboard.twbx` | Packaged Tableau workbook with all dashboards |
+| `dataset.csv` | Example generated dataset (not versioned) |
 | `README.md` | Project description and usage instructions |
 
 ---
